@@ -16,7 +16,7 @@ Guillaume Laisney
 
 
 
-L'application développée répond à un besoin des centres de formation gérés par l'association qui m'emploie :  disposer d'un outil de gestion des ressources pédagogiques qui permettrait de faciliter la liaison entre les situations professionnelles et les enseignements généraux, et à  terme  mutualiser et organiser des ressources pédagogiques par compétence.
+L'application développée répond à un besoin de nombreux centres de formation :  disposer d'un outil de gestion des ressources pédagogiques qui permettrait de faciliter la liaison entre les situations professionnelles et les enseignements généraux, et à  terme  mutualiser et organiser des ressources pédagogiques par compétence.
 
 
 
